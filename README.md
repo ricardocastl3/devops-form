@@ -6,12 +6,15 @@
 ---
 
 <img src="https://github.com/ricardocastl3/devops-form/blob/main/src/assets/overview1.png" width="500">
+<<<<<<< HEAD
 
 ### Invalid Form
 ---
 
 <img src="https://github.com/ricardocastl3/devops-form/blob/main/src/assets/overview2.png" width="500">
 
+=======
+>>>>>>> b293faa22b138d29200929026765101e88dfe820
 
 ## 🚀 Get Started
 
