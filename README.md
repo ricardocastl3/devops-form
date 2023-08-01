@@ -37,7 +37,7 @@ npm run dev
 Libraries| Description
 |---|---|
 |[ReactJS](https://react.dev/)| Front-end library
-|[React-Hook-Form]()| To Controlled our form
+|[React-Hook-Form](https://react-hook-form.com/get-started)| To control our form
 |[Styled-Component]()| To style the components
 |[Zod]() | Library to validation form
 
