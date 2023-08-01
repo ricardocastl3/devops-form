@@ -35,7 +35,6 @@ npm install
 
 ```
 npm run dev
-
 ```
 
 
@@ -44,9 +43,10 @@ npm run dev
 Libraries| Description
 |---|---|
 |[ReactJS](https://react.dev/)| Front-end library
-|[React-Hook-Form]()| To Controlled our form
-|[Styled-Component]()| To style the components
-|[Zod]() | Library to validation form
+|[react-hook-horm]()| To Control our form
+|[styled-component]()| To style the components
+|[zod]() | Library to validation form
+|[vite]() | Bundler and compiler JS.
 
 ## ✒️ Author
 

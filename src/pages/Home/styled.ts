@@ -45,6 +45,7 @@ export const HomeContainer = styled.main`
   }
 
   h3 {
+    line-height: 1.8;
     padding: 0.5rem;
     color: ${(props) => props.theme["slate-300"]};
   }
@@ -109,8 +110,13 @@ export const FormCheck = styled(BASE_GROUP_FORM)`
     gap: 0.5rem;
     transition: background-color 0.2s, color 0.2s;
 
-    &:hover {
+    &:not(:disabled):hover {
       background-color: ${(props) => props.theme["purple-500"]};
+    }
+
+    &:disabled{
+      opacity: 0.7;
+      cursor: not-allowed
     }
   }
 `;
