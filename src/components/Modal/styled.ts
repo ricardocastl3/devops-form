@@ -19,7 +19,7 @@ export const ModalDialog = styled.div`
 
   border-radius: 8px;
   padding: 2rem;
-  width: 25rem;
+  width: 20rem;
 
   display: flex;
   align-items: center;

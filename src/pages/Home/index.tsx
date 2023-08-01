@@ -71,7 +71,7 @@ export function Home() {
 
   {setTimeout(() => {
     setRegisterDone(false);
-  }, 5000)}
+  }, 4000)}
 
   return (
     <HomeContainer>

@@ -24,7 +24,7 @@ export function Header() {
             href="https://github.com/ricardocastl3/devops-form"
             target="__blank"
           >
-            <img src="https://github.com/ricardocastl3/devops-form/blob/main/src/assets/github.png" height="20" width="20" />
+            <img src="https://github.com/ricardocastl3/devops-form/blob/main/src/assets/github.png?raw=true" height="20" width="20" />
             Github
           </a>
         </HeaderGroup>
@@ -34,7 +34,7 @@ export function Header() {
             href="https://www.youtube.com/@ricardocoder"
             target="__blank"
           >
-            <img src="https://github.com/ricardocastl3/devops-form/blob/main/src/assets/youtube.png" height="20" width="20" />
+            <img src="https://github.com/ricardocastl3/devops-form/blob/main/src/assets/youtube.png?raw=true" height="20" width="20" />
             YouTube
           </a>
         </HeaderGroup>
@@ -44,7 +44,7 @@ export function Header() {
             href="https://www.linkedin.com/in/ricardocastles/"
             target="__blank"
           >
-            <img src="https://github.com/ricardocastl3/devops-form/blob/main/src/assets/linkedin.png" height="20" width="20" />
+            <img src="https://github.com/ricardocastl3/devops-form/blob/main/src/assets/linkedin.png?raw=true" height="20" width="20" />
             LinkedIn
           </a>
         </HeaderGroup>
