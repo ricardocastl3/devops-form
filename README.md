@@ -1,7 +1,7 @@
 # DevOps Form Registration
 
 ##### 🟣 Do you need a simple form to register your members on the web? You can use this template for your application.
-
+##### 🟣 You may test here: https://devops-form.vercel.app/
 ### Overview
 ---
 
@@ -12,10 +12,6 @@
 
 <img src="https://github.com/ricardocastl3/devops-form/blob/main/src/assets/overview2.png" width="500">
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 59ccc48aab9f46e40c7ff3d2552aef471a04b83f
 ## 🚀 Get Started
 
 These instructions will allow you to get a copy of the project up and running on your local machine for development and testing purposes.
