@@ -22,7 +22,9 @@ export const ModalDialog = styled.div`
   width: 20rem;
 
   display: flex;
+  flex-direction: column;
   align-items: center;
+  justify-content: center;
 
   gap: 0.5rem;
 
@@ -31,5 +33,10 @@ export const ModalDialog = styled.div`
   
   h2 {
     color: ${(props) => props.theme["green-500"]};
+  }
+
+  img{
+    width: 50px;
+    height: 50px;
   }
 `;

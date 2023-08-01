@@ -81,7 +81,7 @@ export function Home() {
       </h2>
       <h3>Inscrições</h3>
 
-      {registerDone == true ? (
+      {registerDone == false ? (
         <Modal content="Obrigado pela sua inscrição" />
       ) : (
         <span></span>
