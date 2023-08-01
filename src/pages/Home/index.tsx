@@ -147,7 +147,7 @@ export function Home() {
         <FormGroup>
           <label htmlFor="numberVerification">
             <Calculator size={20} />
-            Quanto é: 0 + 0
+            Quanto é: 1 + 1
           </label>
           <input
             type="text"
