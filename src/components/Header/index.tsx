@@ -10,7 +10,7 @@ export function Header() {
           Develop:{" "}
           <a
             href="https://www.linkedin.com/in/ricardocastles/"
-            target="__blank"
+            target="_blank"
           >
             Ricardo Castle
           </a>
@@ -22,7 +22,7 @@ export function Header() {
         <HeaderGroup>
           <a
             href="https://github.com/ricardocastl3/devops-form"
-            target="__blank"
+            target="_blank"
           >
             <img src="https://github.com/ricardocastl3/devops-form/blob/main/src/assets/github.png?raw=true" height="20" width="20" />
             Github
@@ -32,7 +32,7 @@ export function Header() {
         <HeaderGroup>
           <a
             href="https://www.youtube.com/@ricardocoder"
-            target="__blank"
+            target="_blank"
           >
             <img src="https://github.com/ricardocastl3/devops-form/blob/main/src/assets/youtube.png?raw=true" height="20" width="20" />
             YouTube
@@ -42,7 +42,7 @@ export function Header() {
         <HeaderGroup>
           <a
             href="https://www.linkedin.com/in/ricardocastles/"
-            target="__blank"
+            target="_blank"
           >
             <img src="https://github.com/ricardocastl3/devops-form/blob/main/src/assets/linkedin.png?raw=true" height="20" width="20" />
             LinkedIn
