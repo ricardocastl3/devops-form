@@ -29,16 +29,16 @@ const createNewRegisterSchema = zod.object({
     .string()
     .min(1, "Preencha o campo por favor...")
     .email("Digite um email válido..."),
-  office: zod.string().min(1, "Preencha o campo por favor..."),
+  office: zod.string().min(1, "Selecione sua área de atuação..."),
   numberVerification: zod
     .number({ invalid_type_error: "Informe apenas números" })
     .min(1, "Informe pelo menos um valor..."),
   checkValidation: zod.boolean({
-    
+
     required_error:
       "Por favor, confirme com os termos de uso para continuar...",
   }),
-  interest: zod.string().array().min(1, "Selecione pelos 2 interesses"),
+  interest: zod.string().array().min(1, "Selecione pelos menos 2 interesses"),
 });
 
 export function Home() {
@@ -126,7 +126,7 @@ export function Home() {
         <FormGroup>
           <label htmlFor="office">
             <Buildings size={20} />
-            Cargo
+            Área de atuação
           </label>
           <SimpleSelect id="office" {...register("office")}>
             <option value="">------ Selecione o seu cargo ------</option>
@@ -205,8 +205,9 @@ export function Home() {
             <AddressBook size={20} />
             Cadastrar
           </button>
-        </FormCheck>
+        </FormCheck>    
       </FormContainer>
+
     </HomeContainer>
   );
 }

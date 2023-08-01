@@ -1,17 +1,16 @@
-# DevOps Form Register
+# DevOps Form Registration
 
-
-##### 🟣 Do you need a simple form to register your member on the web? You can use this template for your application.
+##### 🟣 Do you need a simple form to register your members on the web? You can use this template for your application.
 
 ### Overview
 ---
 
-<img src="https://github.com/ricardocastl3/nodeproduct/blob/master/src/assets/mobile01.png?raw=true" width="200">
+<img src="https://github.com/ricardocastl3/devops-form/blob/main/src/assets/overview1.png" width="500">
 
 ### Invalid Form
 ---
 
-<img src="https://github.com/ricardocastl3/nodeproduct/blob/master/src/assets/mobile02.png?raw=true" width="200">
+<img src="https://github.com/ricardocastl3/devops-form/blob/main/src/assets/overview2.png" width="500">
 
 
 ## 🚀 Get Started
@@ -23,7 +22,7 @@ These instructions will allow you to get a copy of the project up and running on
 The first step you'll need to get started is downloading the project.
 
 ```
-git clone https://github.com/ricardocastl3/devops-formregister
+git clone https://github.com/ricardocastl3/devops-form
 ```
 
 ### 📋 Install Dependences
@@ -36,7 +35,6 @@ npm install
 ```
 npm run dev
 ```
-
 
 ## 🛠️ Tools
 
@@ -53,7 +51,6 @@ Libraries| Description
 For the development of the platform we have:
 
 * **Developer and Documentation** - [Ricardo Castle](https://www.linkedin.com/in/ricardocastles/)
-
 
 ## 🎁 Expressions of gratitude
 
