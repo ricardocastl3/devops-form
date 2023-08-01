@@ -18,7 +18,7 @@ These instructions will allow you to get a copy of the project up and running on
 The first step you'll need to get started is downloading the project.
 
 ```
-git clone https://github.com/ricardocastl3/devops-formregister
+git clone https://github.com/ricardocastl3/devops-form
 ```
 
 ### 📋 Install Dependences
@@ -31,7 +31,6 @@ npm install
 ```
 npm run dev
 ```
-
 
 ## 🛠️ Tools
 
