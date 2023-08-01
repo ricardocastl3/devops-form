@@ -1,4 +1,4 @@
-# DevOps Form Register
+# DevOps Form Registration
 
 
 ##### 🟣 Do you need a simple form to register your member on the web? You can use this template for your application.
