@@ -13,6 +13,12 @@ export const HeaderContainer = styled.header`
   gap: 1rem;
 
   color: ${(props) => props.theme["slate-300"]};
+
+  @media(max-width:780px){
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
 `;
 
 export const HeaderGroup = styled.div`
@@ -38,10 +44,12 @@ export const HeaderGroup = styled.div`
   svg {
     color: ${(props) => props.theme["slate-300"]};
   }
-`;
-export const HeaderTop = styled.div`
 
-`
+  @media(max-width:780px){
+    flex-direction: column;
+  }
+`;
+
 export const HeaderBottom = styled.div`
   position: fixed;
   bottom: 0;
@@ -53,5 +61,11 @@ export const HeaderBottom = styled.div`
 
   a {
     color: ${(props) => props.theme["slate-200"]};
+  }
+
+  @media(max-width:780px){
+    position: relative;
+    top: 0;
+    flex-direction: row;
   }
 `;

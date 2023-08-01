@@ -49,6 +49,18 @@ export const HomeContainer = styled.main`
     padding: 0.5rem;
     color: ${(props) => props.theme["slate-300"]};
   }
+
+  @media (max-width: 780px) {
+    width: 30rem;
+    text-align: center;
+    h2 {
+      flex-direction: column;
+    }
+  }
+
+  @media (max-width: 510px) {
+    width: 25rem;
+  }
 `;
 
 export const FormContainer = styled.form`
@@ -114,9 +126,9 @@ export const FormCheck = styled(BASE_GROUP_FORM)`
       background-color: ${(props) => props.theme["purple-500"]};
     }
 
-    &:disabled{
+    &:disabled {
       opacity: 0.7;
-      cursor: not-allowed
+      cursor: not-allowed;
     }
   }
 `;
