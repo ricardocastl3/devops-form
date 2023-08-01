@@ -2,10 +2,7 @@
 
 ##### 🟣 Do you need a simple form to register your members on the web? You can use this template for your application.
 
-##### 🟣 You may test here: <a href="https://devops-form.vercel.app/" target="__blank"> open Demo</a>
-
-=======
-##### 🟣 You may test here: https://devops-form.vercel.app/
+##### 🟣 You may test here: <a href="https://devops-form.vercel.app/" target="__blank"> Open Demo</a>
 
 ### Overview
 ---
