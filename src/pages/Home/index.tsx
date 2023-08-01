@@ -62,8 +62,9 @@ export function Home() {
     reset();
   }
 
+  /*
   const firstNumber = Math.round(Math.random() * 99);
-  const secondNumber = Math.round(Math.random() * 99);
+  const secondNumber = Math.round(Math.random() * 99);*/
 
   const fullname = watch("fullname");
   const isSubmittedForm = !fullname;
