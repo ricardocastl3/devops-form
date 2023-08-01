@@ -1,13 +1,11 @@
 # DevOps Form Registration
 
-
 ##### 🟣 Do you need a simple form to register your members on the web? You can use this template for your application.
 
 ### Overview
 ---
 
 <img src="https://github.com/ricardocastl3/devops-form/blob/main/src/assets/overview1.png" width="500">
-
 
 ## 🚀 Get Started
 
@@ -37,16 +35,16 @@ npm run dev
 Libraries| Description
 |---|---|
 |[ReactJS](https://react.dev/)| Front-end library
-|[React-Hook-Form](https://react-hook-form.com/get-started)| To control our form
-|[Styled-Component]()| To style the components
-|[Zod]() | Library to validation form
+|[react-hook-horm]()| To Control our form
+|[styled-component]()| To style the components
+|[zod]() | Library to validation form
+|[vite]() | Bundler and compiler JS.
 
 ## ✒️ Author
 
 For the development of the platform we have:
 
 * **Developer and Documentation** - [Ricardo Castle](https://www.linkedin.com/in/ricardocastles/)
-
 
 ## 🎁 Expressions of gratitude
 
