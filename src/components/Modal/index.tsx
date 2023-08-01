@@ -10,7 +10,7 @@ export function Modal({ content }: ModalProps) {
       <ModalDialog>
         <Check size={30} />
         <h2>{content}</h2>
-        <img src="src/assets/eclipse.gif" alt="" />
+        <img src="https://github.com/ricardocastl3/devops-form/blob/main/src/assets/eclipse.gif?raw=true" alt="" />
       </ModalDialog>
     </ModalContainer>
   );
