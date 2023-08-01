@@ -19,6 +19,7 @@ export const HeaderContainer = styled.header`
     justify-content: center;
     align-items: center;
   }
+  
 `;
 
 export const HeaderGroup = styled.div`
