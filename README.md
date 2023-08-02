@@ -43,6 +43,7 @@ Libraries| Description
 |---|---|
 |[ReactJS](https://react.dev/)| Front-end library
 |[react-hook-form]()| To Control our form
+|[react-router-dom]()| To Routers
 |[styled-component]()| To style the components
 |[zod]() | Library to validation form
 |[vite]() | Bundler and compiler JS.
